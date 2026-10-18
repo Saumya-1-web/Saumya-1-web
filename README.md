@@ -1,179 +1,267 @@
 
-<!--
-  GitHub Profile README
-  Repository name must match your GitHub username.
--->
-
 <div align="center">
 
-# Hey there, I'm Saumya! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,40:25104A,75:164E8A,100:00D4FF&text=SAUMYA&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Dreamer&descSize=18&descAlignY=60&animation=fadeIn" alt="Saumya's profile banner"/>
 
-### 💻 CSE (AI & ML) Student | Developer | Creative Designer
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Saumya+%F0%9F%91%8B;I+turn+ideas+into+digital+experiences;Exploring+AI+%26+Machine+Learning;Building+the+web%2C+one+line+at+a+time;Creativity+meets+code+%E2%9C%A8" alt="Animated introduction"/>
+</a>
 
-*Building projects, learning new technologies, and turning ideas into reality.*
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Learning+%26+Building+Every+Day;Exploring+AI%2C+ML+%26+Web+Development;Code.+Create.+Innovate." alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/saumya-1-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/saumya0072/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://saumya-1-web.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:1F6FEB&height=3&section=header" width="100%" alt="separator" />
-
-</div>
-
-## 👩‍💻 About Me
-
-- 🎓 Pursuing B.Tech in **Computer Science and Engineering (AI & ML)** at KIET.
-- 💻 Exploring programming, software development, and web technologies.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🎨 Combining creativity with technology through graphic design and UI design.
-- 🧠 Practicing problem-solving and improving my coding skills on LeetCode.
-- 🚀 Building projects to turn what I learn into practical experience.
-- 🌱 Always learning, experimenting, and growing as a developer.
-
-> *"Great things are built one line of code at a time."*
-
-## 🛠️ Tech Stack & Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🎨 Design Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-### 🔧 Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-## 🚀 Featured Projects
-
-### 🌐 Personal Portfolio Website
-
-My personal website showcasing my work, skills, and developer journey.
-
-- Built with HTML and CSS.
-- Designed to present my projects and skills.
-
-🔗 **Live Demo:** [View Portfolio](https://saumya-1-web.github.io/My-Portfolio/)
-
-### 🎬 Netflix-Inspired Website Clone
-
-A frontend project inspired by the Netflix browsing experience.
-
-- Built using HTML, CSS, and JavaScript.
-- Focused on responsive design and interactive UI elements.
-
-### 📰 DailyScope — News Portal
-
-A news portal project focused on a clean, interactive browsing experience.
-
-- Built using HTML, CSS, and vanilla JavaScript.
-- Includes category navigation, search, and dark/light mode.
-
-### 🚀 AmongU — Hackathon Teaser
-
-A creative sci-fi teaser concept for an upcoming hackathon.
-
-- Focused on cinematic visuals, suspense, and storytelling.
-- Inspired by space-themed multiplayer game aesthetics.
-
-### 🤖 Obstacle-Avoiding Car
-
-An IoT-based project exploring obstacle detection and autonomous movement.
-
-- Combines sensors, electronics, and embedded-system concepts.
-- Focused on detecting obstacles and navigating around them.
-
-*More projects and improvements coming soon!*
-
-## 💡 Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/u/saumya0072/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  <a href="https://github.com/saumya-1-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
-
-- 🧩 **LeetCode:** [saumya0072](https://leetcode.com/u/saumya0072/)
-- 💻 **GitHub:** [saumya-1-web](https://github.com/saumya-1-web)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saumya-1-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-1-web&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=saumya-1-web&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
-## 🎯 Current Goals
-
-- 📚 Strengthen my programming fundamentals and problem-solving skills.
-- 🧑‍💻 Build more interactive and responsive web applications.
-- 🤖 Explore AI and Machine Learning through practical projects.
-- 🎨 Improve my UI/UX and creative design skills.
-- 🌟 Collaborate, contribute, and grow through real-world projects.
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-<a href="https://github.com/saumya-1-web">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<a href="https://saumya-1-web.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge" alt="Explore portfolio"/>
 </a>
 <a href="https://leetcode.com/u/saumya0072/">
-  <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/⚡_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://github.com/saumya-1-web?tab=repositories">
+<img src="https://img.shields.io/badge/⌘_MY_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="My repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saumya-1-web&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `whoami` 👩‍💻
+
+</div>
+
+Hey! I'm **Saumya**, a first-year B.Tech student exploring Computer Science and Artificial Intelligence & Machine Learning at KIET.
+
+I'm fascinated by the place where **technology, logic, and creativity meet**. From building interactive websites to solving programming problems and experimenting with design, I'm here to learn by creating.
+
+```python
+class Saumya:
+    def __init__(self):
+        self.role = "Student & Developer"
+        self.degree = "B.Tech CSE (AI & ML)"
+        self.interests = [
+            "Web Development",
+            "Artificial Intelligence",
+            "Problem Solving",
+            "UI/UX & Graphic Design"
+        ]
+        self.mindset = "Always learning, always building"
+
+    def current_focus(self):
+        return "Turning curiosity into projects ✨"
+
+me = Saumya()
+print(me.current_focus())
+```
+
+<details>
+<summary>🌱 A little more about me — click to explore</summary>
+
+<br/>
+
+- 🧠 I enjoy breaking complex coding problems into smaller steps.
+- 🎨 I like creating designs that are both beautiful and useful.
+- 💻 I'm learning by building projects instead of just collecting tutorials.
+- 🚀 I want to explore AI and ML through practical applications.
+- ✨ My philosophy: start small, stay curious, keep improving.
+
+</details>
+
+---
+
+<div align="center">
+
+## ⚡ MY TECH PLAYGROUND
+
+*The tools I'm exploring on my developer journey.*
+
+### `01` — Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming languages"/>
+
+### `02` — Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web development"/>
+
+### `03` — Tools & Creativity
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps&theme=dark" alt="Developer and design tools"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 THE PROJECT LAB
+
+*Ideas become interesting when you build them.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 01. My Portfolio
+
+A personal corner of the internet where I showcase my work and developer journey.
+
+**`HTML` `CSS`**
+
+<a href="https://saumya-1-web.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_SITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio"/>
+</a>
+
+<a href="https://myportfolio-rouge-eight-41.vercel.app/">Alternative deployment ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 02. Netflix-Inspired Clone
+
+A frontend experiment inspired by the browsing experience of a streaming platform.
+
+**`HTML` `CSS` `JavaScript`**
+
+<img src="https://img.shields.io/badge/FRONTEND-FF3158?style=for-the-badge" alt="Frontend project"/>
+
+*Exploring layouts, responsive design, and interactive UI.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 03. DailyScope
+
+An interactive news portal concept focused on easy navigation and a clean reading experience.
+
+**`HTML` `CSS` `JavaScript`**
+
+<img src="https://img.shields.io/badge/WEB_PROJECT-00B8D9?style=for-the-badge" alt="Web project"/>
+
+*Category filters, search, and theme switching.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 04. Obstacle-Avoiding Car
+
+An IoT project exploring how sensors can help a vehicle detect obstacles and navigate around them.
+
+**`IoT` `Sensors` `Electronics`**
+
+<img src="https://img.shields.io/badge/HARDWARE_PROJECT-16A34A?style=for-the-badge" alt="IoT project"/>
+
+*Connecting physical components with practical logic.*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>More experiments, more learning, more projects coming soon.</sub>
+
+</div>
+
+<details>
+<summary>💡 What do I want to build next?</summary>
+
+- AI-powered applications that solve everyday problems.
+- More polished and responsive web experiences.
+- Projects that combine software, design, and intelligent systems.
+- Tools that make learning and productivity easier.
+
+</details>
+
+---
+
+<div align="center">
+
+## 🧩 THE PROBLEM-SOLVING CORNER
+
+### One challenge at a time. One improvement at a time.
+
+<a href="https://leetcode.com/u/saumya0072/">
+<img src="https://img.shields.io/badge/LEETCODE-saumya0072-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/saumya0072/">🧠 Visit my LeetCode profile →</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 MY GITHUB UNIVERSE
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saumya-1-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-1-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=saumya-1-web&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saumya-1-web&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT QUESTS
+
+| Quest | Status |
+|:---|:---|
+| 📚 Strengthen programming fundamentals | `IN PROGRESS` |
+| 🧩 Practice problem solving | `IN PROGRESS` |
+| 🌐 Build better web projects | `IN PROGRESS` |
+| 🤖 Explore AI & Machine Learning | `EXPLORING` |
+| 🎨 Improve UI/UX design | `ALWAYS LEARNING` |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 LET'S CONNECT
+
+*Good ideas get even better when people share them.*
+
+<a href="https://github.com/saumya-1-web">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/saumya0072/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://myportfolio-rouge-eight-41.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-Discover%20My%20Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
+### 💜 Thanks for visiting my little corner of GitHub!
 
-**Thanks for visiting my profile! 💙**
+**Stay curious. Keep creating. Make something meaningful.**
 
-*Keep learning. Keep building. Keep growing.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:25104A,100:09090F&height=140&section=footer" width="100%" alt="Profile footer"/>
+
+<sub>Crafted with curiosity and a little bit of code ✨</sub>
 
 </div>
